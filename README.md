@@ -11,7 +11,7 @@ Baddosnei (BADD) is a simple, secure, and fully compliant ERC20 token designed a
 
 It follows OpenZeppelin best practices and is completely permissionless after deployment.
 
-## Contract Address: 0x83296188d8d85599303a3eec5cdb8286582e4f3aabc9cdc6536fe851e51edc45
+## Contract Address: 0x1749abE3D2C382BDc0e230CD2aB2bF98cC19C4b7
 
 
 Demo Transaction: View on Block Explorer https://testnet.iopn.tech/tx/0x83296188d8d85599303a3eec5cdb8286582e4f3aabc9cdc6536fe851e51edc45
